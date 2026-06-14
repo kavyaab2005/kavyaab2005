@@ -4,7 +4,7 @@
 ---
 
 ### 🙋 About Me
-- 🎓 6th Semester B.E. CSE (AIML) at **Vijaya Vittala Institute of Technology, Bengaluru**
+- 🎓 7th Semester B.E. CSE (AIML) at **Vijaya Vittala Institute of Technology, Bengaluru**
 - 🤖 Passionate about **AI Agents, LLMs, and Full Stack Development**
 - 🛠️ Built an **Autonomous Financial Research Agent** using LangChain + ChromaDB + SEC EDGAR API
 - 🌱 Currently learning **FastAPI, React, and Model Fine-tuning**
