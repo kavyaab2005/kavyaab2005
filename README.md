@@ -38,8 +38,7 @@
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| 🤖 [ARA-1 Financial Research Agent](https://github.com/kavyaab2005) | Autonomous agent that researches stocks using SEC filings | LangChain, ChromaDB, SEC EDGAR API |
-| 🔍 [Real vs AI Detector](https://github.com/kavyaab2005/Real-vs-AI-Detector-) | Detects AI-generated content vs real human content | Python, HTML |
+| 🤖 [RAG-Based Document Q&A Chatbot](https://github.com/kavyaab2005/rag-chatbot) | upload PDF/TXT documents and get AI-powered answers with source citations | LangChain • ChromaDB • Groq LLM • Gemini • Streamlit  |
 | 🧠 [Quiz Genius](https://github.com/kavyaab2005/quiz-genius) | Smart quiz application | TypeScript |
 | 🏫 [Academic Leaderboard](https://github.com/kavyaab2005/academic-leaderboard) | Leaderboard system for VVIT students | HTML |
 
