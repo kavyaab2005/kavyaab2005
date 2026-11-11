@@ -102,11 +102,4 @@ An end-to-end RAG pipeline: upload a PDF or TXT file and get AI-powered answers 
 
 🔗 [GitHub](https://github.com/kavyaab2005/rag-chatbot) • [Demo](https://rag-chatbot-kkega75mx9sfmx8m3oq9xt.streamlit.app)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavyaab2005&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaab2005&layout=compact&theme=tokyonight" height="160"/>
-</p>
